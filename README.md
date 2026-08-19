@@ -118,6 +118,7 @@ Je n'ai pas empilé des bibliothèques : chaque choix est un choix, et je sais d
 
 <p align="center">
   <strong>Langages</strong><br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
@@ -139,6 +140,7 @@ Je n'ai pas empilé des bibliothèques : chaque choix est un choix, et je sais d
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" />
