@@ -2,7 +2,7 @@
 <!-- Banniere et en-tetes : SVG generes maison (assets/) — reseau de noeuds, palette navy / ambre / ciel -->
 
 <p align="center">
-  <img src="assets/banner.svg" alt="Ressane Messioughi — Développeur Web Full Stack" width="100%" />
+  <img src="assets/banner.svg?v=2" alt="Ressane Messioughi — Développeur Web Full Stack" width="100%" />
 </p>
 
 <p align="center">
@@ -19,23 +19,38 @@
   <img src="https://komarev.com/ghpvc/?username=ressane-messioughi&label=Vues%20du%20profil&color=F0B429&style=for-the-badge" />
 </p>
 
-<img src="assets/headers/01-profil.svg" alt="01 — Qui je suis" width="100%" />
+<img src="assets/headers/01-profil.svg?v=2" alt="01 — Qui je suis" width="100%" />
 
-> 🔁 **Reconversion.** Dix ans en logistique, industrie et pharmaceutique, puis retour à
-> ce qui m'occupait déjà à 14 ans : administrer des serveurs, manipuler des bases MySQL,
-> bidouiller des CMS en PHP. J'en ai fait mon métier.
->
-> 🎓 **Titre professionnel DWWM** — développeur web et web mobile, en cours de validation.
->
-> 🎯 **Ce que je cherche :** un premier poste où je code tous les jours, où l'on relit mon
-> code et où je peux monter en compétences vite. Front, back, ou les deux.
+J'ai passé une dizaine d'années dans la logistique, l'industrie et le pharmaceutique. En
+parallèle, je n'ai jamais vraiment lâché ce qui m'occupait déjà à 14 ans : monter des
+serveurs, casser des bases MySQL et les réparer, bidouiller des CMS en PHP pour comprendre
+ce qu'il y avait dessous.
 
-**Ce que je sais faire aujourd'hui, et que je peux expliquer ligne à ligne :** construire
-une interface React, concevoir et écrire une API REST, modéliser une base relationnelle et
-en écrire le SQL, sécuriser une authentification, et faire communiquer le tout en temps
-réel.
+Le déclic est venu le jour où j'ai vu plusieurs personnes se connecter en même temps à un
+serveur que j'avais installé moi-même. J'ai voulu comprendre comment ça marchait vraiment,
+puis construire mes propres outils. J'ai repris une formation, et aujourd'hui je termine
+mon **titre professionnel DWWM** — développeur web et web mobile.
 
-<img src="assets/headers/02-projet.svg" alt="02 — Projet principal" width="100%" />
+Je cherche un **premier poste où je code tous les jours**, dans une équipe qui relit le
+code et où je peux progresser vite. Front, back, ou les deux : ce qui m'intéresse, c'est
+de suivre une fonctionnalité du besoin jusqu'à la mise en ligne.
+
+### Ce que je sais faire, et que je peux expliquer ligne à ligne
+
+| | |
+|---|---|
+| 🎨 **Construire une interface** | Des composants React réutilisables, une navigation avec routes protégées, et un rendu qui tient du mobile au grand écran. |
+| 🔌 **Concevoir et écrire une API** | Une API REST en couches séparées, où chaque fichier a un seul rôle : aiguiller, traduire, décider, ou parler à la base. |
+| 🗄️ **Modéliser une base de données** | Du MCD au script SQL, avec les clés étrangères qui garantissent qu'aucun lien ne pointe dans le vide. J'écris mes requêtes à la main, jointures comprises. |
+| 🛡️ **Valider les données entrantes** | Deux niveaux : dans le formulaire pour éviter un aller-retour inutile, et sur le serveur — le seul qui fasse foi, parce qu'on peut toujours contourner le navigateur. |
+| 🚦 **Gérer les erreurs proprement** | Une classe d'erreur unique, un middleware qui les intercepte toutes en fin de chaîne, et côté interface un message clair à l'utilisateur. Jamais une erreur avalée en silence. |
+| 🔐 **Sécuriser l'authentification** | Mots de passe hachés, jeton signé vérifié à chaque requête, et un second contrôle pour les actions réservées au propriétaire d'une ressource. |
+| ⚡ **Faire communiquer en temps réel** | Une connexion permanente avec Socket.IO, organisée en salles pour n'envoyer chaque notification qu'aux personnes concernées. |
+| 🧪 **Écrire des tests** | Vitest et React Testing Library, en testant ce que l'utilisateur voit et fait plutôt que le détail de l'implémentation. |
+| 🚀 **Mettre en ligne** | Build de production, variables d'environnement séparées du code, secrets hors du dépôt, et un nom de domaine qui pointe au bon endroit. |
+| ✅ **Garder le code propre** | ESLint et Prettier lancés automatiquement à chaque commit, et un historique Git organisé en branches, lisible par quelqu'un d'autre que moi. |
+
+<img src="assets/headers/02-projet.svg?v=2" alt="02 — Projet principal" width="100%" />
 
 ### 🗂️ [DevProject](https://github.com/ressane-messioughi/devproject) — plateforme collaborative de gestion de projet
 
@@ -49,7 +64,6 @@ réel.
 | **Front-end** | React 19 · Vite · Tailwind CSS 4 · React Router 7 · React Hook Form · Socket.IO client |
 | **Back-end** | Node.js · Express 5 · MySQL (SQL écrit à la main) · JWT · bcrypt · express-validator · Socket.IO |
 | **Qualité** | Vitest · React Testing Library · ESLint · Prettier · Husky · Git Flow |
-| **Volume** | 35 composants · 11 pages · 4 391 lignes · 11 tests · 72 commits · 9 versions taguées |
 
 **Trois choses que j'y ai vraiment construites :**
 
@@ -73,7 +87,7 @@ réel.
 
 <sub>🔒 Le dépôt back-end est privé pour le moment — je le publie sur demande, ou en entretien.</sub>
 
-<img src="assets/headers/03-methode.svg" alt="03 — Ma façon de travailler" width="100%" />
+<img src="assets/headers/03-methode.svg?v=2" alt="03 — Ma façon de travailler" width="100%" />
 
 Je n'ai pas empilé des bibliothèques : chaque choix est un choix, et je sais dire pourquoi.
 
@@ -113,7 +127,7 @@ Je n'ai pas empilé des bibliothèques : chaque choix est un choix, et je sais d
   que je sais déjà faire. Mais je relis tout ce qui entre dans mon code : si je ne sais pas
   expliquer une ligne, elle ne reste pas.
 
-<img src="assets/headers/04-stack.svg" alt="04 — Stack technique" width="100%" />
+<img src="assets/headers/04-stack.svg?v=2" alt="04 — Stack technique" width="100%" />
 
 <p align="center">
   <strong>Langages</strong><br/>
@@ -155,13 +169,13 @@ Je n'ai pas empilé des bibliothèques : chaque choix est un choix, et je sais d
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
 </p>
 
-<img src="assets/headers/05-stats.svg" alt="05 — DevProject en chiffres" width="100%" />
+<img src="assets/headers/05-stats.svg?v=2" alt="05 — DevProject en chiffres" width="100%" />
 
 <p align="center">
-  <img src="assets/stats.svg" alt="35 composants, 11 pages, 4 391 lignes, 11 tests, 72 commits, 9 versions taguées" width="100%" />
+  <img src="assets/stats.svg?v=2" alt="35 composants, 11 pages, 4 391 lignes, 11 tests, 72 commits, 9 versions taguées" width="100%" />
 </p>
 
-<img src="assets/headers/06-contact.svg" alt="06 — Me contacter" width="100%" />
+<img src="assets/headers/06-contact.svg?v=2" alt="06 — Me contacter" width="100%" />
 
 Je termine mon titre DWWM et je cherche un **premier poste de développeur web**, en
 alternance de front et de back ou spécialisé sur l'un des deux. Je suis basé à **Lyon**.
@@ -185,5 +199,5 @@ while (!jeComprends) {
 ```
 
 <p align="center">
-  <img src="assets/footer.svg" alt="Depuis Lyon, ouvert aux opportunités" width="100%" />
+  <img src="assets/footer.svg?v=2" alt="Depuis Lyon, ouvert aux opportunités" width="100%" />
 </p>
