@@ -7,18 +7,17 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F0B429&center=true&vCenter=true&width=720&lines=Développeur+Web+Full+Stack;React+%C2%B7+Node.js+%C2%B7+Express+%C2%B7+MySQL;Temps+réel+avec+Socket.IO;Reconversion+assumée%2C+code+expliqué+ligne+à+ligne" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F0B429&center=true&vCenter=true&width=760&lines=D%C3%A9veloppeur%20Web%20Full%20Stack;React%20%C2%B7%20Node.js%20%C2%B7%20Express%20%C2%B7%20MySQL;Temps%20r%C3%A9el%20avec%20Socket.IO;Reconversion%20assum%C3%A9e%2C%20code%20expliqu%C3%A9%20ligne%20%C3%A0%20ligne" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/ressane-messioughi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:messioughiressane@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://ressane.fr"><img src="https://img.shields.io/badge/Portfolio-F0B429?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
   <a href="https://github.com/ressane-messioughi/devproject"><img src="https://img.shields.io/badge/DevProject-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=ressane-messioughi&label=Vues%20du%20profil&color=F0B429&style=for-the-badge" />
 </p>
-<!-- LinkedIn : decommenter et coller l'URL quand le profil est pret
-  <a href="URL_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
--->
 
 <img src="assets/headers/01-profil.svg" alt="01 — Qui je suis" width="100%" />
 
@@ -140,7 +139,6 @@ Je n'ai pas empilé des bibliothèques : chaque choix est un choix, et je sais d
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloudinary-3448C5?logo=cloudinary&logoColor=white" />
@@ -170,10 +168,12 @@ alternance de front et de back ou spécialisé sur l'un des deux. Je suis basé 
 
 Si mon travail vous intéresse, le plus simple est d'ouvrir
 [**DevProject**](https://github.com/ressane-messioughi/devproject) : le README explique le
-projet, et l'historique Git montre comment je travaille.
+projet, et l'historique Git montre comment je travaille. Le reste de mon travail est sur
+[**ressane.fr**](https://ressane.fr).
 
 <p align="center">
   <a href="mailto:messioughiressane@gmail.com"><img src="https://img.shields.io/badge/Écrivez--moi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ressane-messioughi"><img src="https://img.shields.io/badge/Discutons%20sur%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ```js
